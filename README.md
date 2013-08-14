@@ -1,9 +1,9 @@
+![image](https://dl.dropboxusercontent.com/u/11493275/github/TSActivityIndicatorView/TSActivityIndicatorView.png)
+
 TSActivityIndicatorView
 =======================
 
 This is very simple view class that looks like an UIActivityIndicatorView but is fully customizable. It's great for you if you want to add indicator view to you game or app and it should be customized.
-
-![image](https://dl.dropboxusercontent.com/u/11493275/github/TSActivityIndicatorView/TSActivityIndicatorView.png)
 
 Why should i use it?
 =======================
@@ -62,5 +62,7 @@ And the most important thing to do, you have to type images names (required) and
 ![image](https://dl.dropboxusercontent.com/u/11493275/github/TSActivityIndicatorView/2.png)
 
 Next step is to create outlet and call <i>startAnimation</i> and <stopAnimation> whenever you need.
+
+If you have a question, feel free to mail me or mention me @tomkowz.
 
 Enjoy!
