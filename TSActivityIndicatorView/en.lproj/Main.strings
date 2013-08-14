@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "hiddenWhenStopped = YES"; ObjectID = "1qV-qF-NsR"; */
+"1qV-qF-NsR.normalTitle" = "hiddenWhenStopped = YES";
+
+/* Class = "IBUIButton"; normalTitle = "Stop Animating"; ObjectID = "4xt-B0-121"; */
+"4xt-B0-121.normalTitle" = "Stop Animating";
+
+/* Class = "IBUIButton"; normalTitle = "Start Animating"; ObjectID = "gqA-oe-O1r"; */
+"gqA-oe-O1r.normalTitle" = "Start Animating";
+
+/* Class = "IBUIButton"; normalTitle = "hiddenWhenStopped = NO"; ObjectID = "qnX-jT-2C5"; */
+"qnX-jT-2C5.normalTitle" = "hiddenWhenStopped = NO";
