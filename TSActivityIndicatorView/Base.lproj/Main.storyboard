@@ -24,6 +24,9 @@
                                     <userDefinedRuntimeAttribute type="string" keyPath="framesAsString">
                                         <string key="value">activity-indicator-1, activity-indicator-2, activity-indicator-3, activity-indicator-4, activity-indicator-5, activity-indicator-6</string>
                                     </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="duration">
+                                        <real key="value" value="0.80000000000000004"/>
+                                    </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gqA-oe-O1r">
