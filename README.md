@@ -10,6 +10,10 @@ Why should i use it?
 =======================
 As I mentioned earlier, if you want to have nice looking indicator view, use this class.
 
+Is it better than animated UIImageView?
+=======================
+Yes. You can use it in very simple way in Interface Builder. You only have to pass images names in keyPath and that's all. Look below.
+
 How can i use it? Is it difficult?
 =======================
 There are two ways to use it and both are simple. Sounds good, ha?
