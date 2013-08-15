@@ -4,6 +4,7 @@ TSActivityIndicatorView
 =======================
 
 This is very simple view class that looks like an UIActivityIndicatorView but is fully customizable. It's great for you if you want to add indicator view to you game or app and it should be customized.
+If you use this class you can not only make circular Indicators, you can add images that are wide and have e.g. 3 rotating balls etc. (instead of one object which rotate in native UIActivityIndicator).
 
 Why should i use it?
 =======================
