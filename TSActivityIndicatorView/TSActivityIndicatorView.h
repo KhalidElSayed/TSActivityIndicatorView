@@ -24,6 +24,7 @@
 
 @property CGFloat duration; /// default 1.0f
 @property BOOL hidesWhenStopped; /// Default YES
+@property NSInteger repeatCount; /// Default -1
 
 @property (readonly) BOOL isAnimating;
 

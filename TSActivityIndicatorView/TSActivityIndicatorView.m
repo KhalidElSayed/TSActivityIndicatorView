@@ -57,6 +57,8 @@
     
     _hidesWhenStopped = YES;
     _duration = 1.0f;
+    _repeatCount = -1;
+    
     [self setHidden:_hidesWhenStopped];
 }
 
@@ -82,7 +84,7 @@
     _internal.image = _images[0];
     _internal.animationImages = _images;
     _internal.animationDuration = _duration;
-    _internal.animationRepeatCount = -1;
+    _internal.animationRepeatCount = _repeatCount;
     }
 }
 
